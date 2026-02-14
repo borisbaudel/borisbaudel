@@ -1,85 +1,147 @@
-# Hi, I'm Boris Alexandre Baudel 👋
+# Boris Baudel 👋
+### Applied Physics • Control • State Estimation • Space Engineering
 
-🎯 Applied Physics • Control • State Estimation • Scientific Computing • Space Systems
-
-Graduate student in applied physics and space engineering with a strong focus on:
-
-- 🧠 State estimation (Kalman / EKF / RTS smoothing)
-- 🔬 Physics-based modeling & simulation
-- 📡 Signal & image processing
-- 🛰️ Space instrumentation & sensing systems
-- ⚛️ Quantum & photon-limited measurements
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-State%20Estimation-success">
+  <img src="https://img.shields.io/badge/Field-Applied%20Physics-blue">
+  <img src="https://img.shields.io/badge/Domain-Space%20Systems-black">
+  <img src="https://img.shields.io/badge/Methods-Kalman%20%7C%20EKF%20%7C%20RTS-orange">
+</p>
 
 ---
 
-## 🔬 Research & Technical Interests
+## 🧠 About Me
 
-My work sits at the intersection of:
+Graduate student in **Applied Physics and Space Engineering**,  
+specialized in **modeling, estimation, and uncertainty analysis of physical systems**.
 
-- Estimation & observers for physical systems  
-- Noise modeling & uncertainty analysis  
+Core themes of my work:
+
+- Physics-based modeling  
+- State estimation & observers  
+- Signal & image processing  
+- Noise modeling & uncertainty propagation  
 - Scientific computing & simulation  
-- Optical / microwave / sensing systems  
-- Space & remote sensing applications  
+- Space & sensing systems  
 
 ---
 
 ## 🚀 Featured Projects
 
-📌 **Uncertainty-aware SST Anomaly Monitoring**  
-End-to-end pipeline for SST anomaly detection using NOAA OISST data,  
-latitude-weighted averaging, Kalman filtering & RTS smoothing  
-→ https://github.com/borisbaudel/Uncertainty-aware-SST-Anomaly-Monitoring
+### 📌 Uncertainty-aware SST Anomaly Monitoring  
+🔗 https://github.com/borisbaudel/Uncertainty-aware-SST-Anomaly-Monitoring
 
-📌 **Quantum / Estimation / Signal Processing**  
-State estimation & modeling for quantum / optical systems  
-→ https://github.com/borisbaudel/Quantum-stuff
+**Objective**  
+Development of an end-to-end pipeline for **regional sea surface temperature (SST) anomaly detection** using NOAA OISST satellite data.
 
-📌 **Research & Internship Work (UCL)**  
-Signal & image processing for precision sensing experiments  
-→ https://github.com/borisbaudel/Internship-UCL
+**Technical Content**
+
+- Construction of daily climatology baseline (1991–2020)
+- Latitude-weighted regional averaging
+- SST anomaly computation
+- Local-level **Kalman Filter (KF)** implementation
+- **Rauch–Tung–Striebel (RTS) smoothing**
+- Explicit uncertainty propagation & noise modeling
+
+**Key Aspects**
+
+- Separation of climate signal vs measurement noise  
+- Estimation under noisy / incomplete observations  
+- Uncertainty-aware diagnostics  
+- Reproducible scientific workflow  
 
 ---
 
-## 🏛️ Research Experience
+### 📌 Quantum / Estimation / Signal Processing  
+🔗 https://github.com/borisbaudel/Quantum-stuff
 
-- Signals and Systems Laboratory (L2S), CentraleSupélec  
-  → Optical systems modeling, Kalman / EKF estimation  
+**Objective**  
+Modeling and estimation techniques for **quantum and optical measurement systems**.
 
-- German Aerospace Center (DLR), Ulm  
-  → FEM simulations (COMSOL), microwave / sub-mm components  
+**Technical Content**
 
-- Airbus Defence and Space, Toulouse  
-  → Experimental optical systems & signal processing  
+- Optical cavity modeling  
+- Homodyne detection simulation  
+- Phase estimation in noisy environments  
+- Kalman / Extended Kalman Filter (EKF)  
+- Noise & observability analysis  
 
-- University College London (UCL)  
-  → Precision sensors, signal & image processing  
+**Key Aspects**
+
+- Estimation of hidden quantum/optical states  
+- Photon-limited / low-SNR regimes  
+- Physics-consistent simulation  
+
+---
+
+### 📌 Research & Internship Work (UCL)  
+🔗 https://github.com/borisbaudel/Internship-UCL
+
+**Context**  
+Research internship focused on **experimental characterization of a precision sensor**  
+(atomic magnetometer for electromagnetic induction imaging).
+
+**Technical Content**
+
+- Signal processing pipelines  
+- Noise reduction & filtering  
+- Image reconstruction / analysis  
+- Python / MATLAB data workflows  
+
+**Key Aspects**
+
+- Experimental data analysis  
+- Weak signal extraction  
+- Measurement uncertainty  
+
+---
+
+## 🛰️ Research Experience
+
+**Signals and Systems Laboratory (L2S), CentraleSupélec**  
+- Physical modeling of optical measurement systems  
+- Kalman / EKF for phase & signal estimation  
+- Noise propagation & uncertainty analysis  
+
+**German Aerospace Center (DLR), Ulm**  
+- FEM simulations (COMSOL)  
+- Microwave / sub-mm component design  
+- Instrument response & sensitivity analysis  
+
+**Airbus Defence and Space, Toulouse**  
+- Experimental optical systems  
+- Calibration & performance characterization  
+- Signal processing for photon-limited regimes  
+
+**University College London (UCL)**  
+- Precision sensor characterization  
+- Signal & image processing  
 
 ---
 
 ## 🛠️ Technical Skills
 
 **Modeling & Simulation**  
-Physical modeling • FEM (COMSOL) • Numerical methods  
+Physical system modeling • Numerical simulation • FEM (COMSOL)
 
 **Programming & Tools**  
-Python (NumPy, SciPy, Jupyter) • MATLAB / Simulink • Git • Linux • LaTeX  
+Python (NumPy, SciPy, Jupyter) • MATLAB / Simulink • Git • Linux • LaTeX
 
 **Signal Processing & Estimation**  
-Kalman filtering (KF / EKF) • RTS smoothing • Noise & uncertainty analysis  
+Kalman filtering (KF / EKF) • RTS smoothing • Noise modeling • Observer design
 
 ---
 
-## 🌍 Currently
+## 🌍 Current Focus
 
 🎓 M.Sc. Space Engineering – CentraleSupélec  
-🎓 Research Year in Quantum Technologies – ENS Paris-Saclay - ArteQ
-🎓 B.Sc. & M.Sc. in Physics - University of Le Mans
+🎓 Research Year in Quantum Technologies – ENS Paris-Saclay  
+🎓 B.Sc. & M.Sc. in Physics  
 
 ---
 
 ## 📫 Contact
 
-- 🌐 Website: https://www.borisalexandrebaudel.com
-- 💼 LinkedIn: [link]
-- ✉️ Email: [email]
+🌐 Website → https://www.borisalexandrebaudel.com  
+💼 LinkedIn → [link]  
+✉️ Email → [email]
