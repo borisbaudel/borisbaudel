@@ -53,7 +53,6 @@ Development of an end-to-end pipeline for **regional sea surface temperature (SS
 ---
 
 ### 📌 Quantum / Estimation / Signal Processing  
-🔗 https://github.com/borisbaudel/Quantum-stuff
 
 **Objective**  
 Modeling and estimation techniques for **quantum and optical measurement systems**.
