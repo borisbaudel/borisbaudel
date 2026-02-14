@@ -136,8 +136,10 @@ Kalman filtering (KF / EKF) • RTS smoothing • Noise modeling • Observer de
 
 🎓 M.Sc. Space Engineering, Control Engineering – CentraleSupélec  
 🎓 Research Year in Quantum Technologies – Ecole Normale Supérieure (ENS) Paris-Saclay  
-🎓 B.Sc. & M.Sc. in Physics, University of Le Mans
+🎓 B.Sc. & M.Sc. in Physics - University of Le Mans
 🎓 B.Sc & ENS degree in Mechatronics - Ecole Normale Supérieure (ENS) Rennes
+
+
 🎓 French Preparatory classes for the "Grandes Ecoles"
 
 ---
