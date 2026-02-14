@@ -110,6 +110,7 @@ and much more...
 - Instrument response & sensitivity analysis
 - NV centers
 - Can't publish
+  
 **Master Thesis in Space Engineering : Airbus Defence and Space, Toulouse(6 Months Internship)**  
 - Experimental optical systems  
 - Calibration & performance characterization  
@@ -125,7 +126,7 @@ and much more...
 - Lagrange equations for Thrust vectorial control
 - Simulink and Solidworks simulator for Thrust vectorial control 
 - Can't publish
-- 
+  
 **Summer Internship in INVAP** 
 - Continium mechanics for thrust measurement
 -  Can't publish
