@@ -107,7 +107,6 @@ Research internship focused on **experimental characterization of a precision se
 - Microwave / sub-mm component design  
 - Instrument response & sensitivity analysis
 - NV centers
-
 **Master Thesis in Space Engineering : Airbus Defence and Space, Toulouse(6 Months Internship)**  
 - Experimental optical systems  
 - Calibration & performance characterization  
