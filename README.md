@@ -93,11 +93,13 @@ Research internship focused on **experimental characterization of a precision se
 - Weak signal extraction  
 - Measurement uncertainty  
 
+and much more... 
+
 ---
 
 ## 🛰️ Research Experience
 
-** Master Project : Signals and Systems Laboratory (L2S), CentraleSupélec**  
+**Master Project : Signals and Systems Laboratory (L2S), CentraleSupélec**  
 - Physical modeling of optical measurement systems  
 - Kalman / EKF for phase & signal estimation  
 - Noise propagation & uncertainty analysis  
@@ -107,15 +109,26 @@ Research internship focused on **experimental characterization of a precision se
 - Microwave / sub-mm component design  
 - Instrument response & sensitivity analysis
 - NV centers
+- Can't publish
 **Master Thesis in Space Engineering : Airbus Defence and Space, Toulouse(6 Months Internship)**  
 - Experimental optical systems  
 - Calibration & performance characterization  
-- Signal processing for photon-limited regimes  
+- Signal processing for photon-limited regimes
+- Can't publish
 
 **University College London (UCL) (3 Months)**  
 - Precision sensor characterization  
 - Signal & image processing  
 
+**Internship in Aerospace Engineering (CNES) (2 Months + Student Project)** 
+- Mechanical Design of SolidWorks for pre-study biliquid rocket  
+- Lagrange equations for Thrust vectorial control
+- Simulink and Solidworks simulator for Thrust vectorial control 
+- Can't publish
+- 
+**Summer Internship in INVAP** 
+- Continium mechanics for thrust measurement
+-  Can't publish
 ---
 
 ## 🛠️ Technical Skills
