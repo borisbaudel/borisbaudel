@@ -97,22 +97,23 @@ Research internship focused on **experimental characterization of a precision se
 
 ## 🛰️ Research Experience
 
-**Signals and Systems Laboratory (L2S), CentraleSupélec**  
+** Master Project : Signals and Systems Laboratory (L2S), CentraleSupélec**  
 - Physical modeling of optical measurement systems  
 - Kalman / EKF for phase & signal estimation  
 - Noise propagation & uncertainty analysis  
 
-**German Aerospace Center (DLR), Ulm**  
+**Master Thesis in Physics : German Aerospace Center (DLR), Ulm (6 Months Internship)**  
 - FEM simulations (COMSOL)  
 - Microwave / sub-mm component design  
-- Instrument response & sensitivity analysis  
+- Instrument response & sensitivity analysis
+- NV centers
 
-**Airbus Defence and Space, Toulouse**  
+**Master Thesis in Space Engineering : Airbus Defence and Space, Toulouse(6 Months Internship)**  
 - Experimental optical systems  
 - Calibration & performance characterization  
 - Signal processing for photon-limited regimes  
 
-**University College London (UCL)**  
+**University College London (UCL) (3 Months)**  
 - Precision sensor characterization  
 - Signal & image processing  
 
