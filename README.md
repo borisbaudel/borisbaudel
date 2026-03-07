@@ -160,5 +160,4 @@ Kalman filtering (KF / EKF) • RTS smoothing • Noise modeling • Observer de
 ## 📫 Contact
 
 🌐 Website → https://www.borisalexandrebaudel.com  
-💼 LinkedIn → [link]  
-✉️ Email → [email]
+✉️ Email → boris.baudel@student-cs.fr
