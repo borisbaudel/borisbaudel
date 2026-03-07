@@ -111,7 +111,7 @@ and much more...
 - NV centers
 - Can't publish
   
-**Master Thesis in Space Engineering : Airbus Defence and Space, Toulouse(6 Months Internship)**  
+**Master Thesis in Space Engineering : Airbus, Toulouse(6 Months Internship)**  
 - Experimental optical systems  
 - Calibration & performance characterization  
 - Signal processing for photon-limited regimes
